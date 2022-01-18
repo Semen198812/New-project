@@ -1,3 +1,6 @@
+```css
+код
+```
 # NeuroStartUp
 
 ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
@@ -19,9 +22,6 @@
 Ниже пример кода из нашего приложения:
 
 .selector {
-${color}
-${color}
   font-family: "Awesome", Arial, sans-serif;
   color: red;
-${color}
 }
